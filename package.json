@@ -1,0 +1,23 @@
+{
+  "name": "bilals-callback-function",
+  "version": "1.0.0",
+  "description": "I created a callback function which take a number and display fabonacci series upto that number of terms entered by the user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadBilalYousaf/Call-Back-Function.git"
+  },
+  "keywords": [
+    "Callback",
+    "Function"
+  ],
+  "author": "Bilal Yousaf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuhammadBilalYousaf/Call-Back-Function/issues"
+  },
+  "homepage": "https://github.com/MuhammadBilalYousaf/Call-Back-Function#readme"
+}
